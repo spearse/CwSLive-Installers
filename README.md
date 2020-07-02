@@ -13,5 +13,5 @@ A getting started guide can also be found alongside the [releases](https://githu
 The iOS version is not yet availble publically, however, you can use the [form here](https://forms.gle/znpgwHb6Era2GiDh9) to request access.  You will normally receive an providing access to the iOS app and instructions within 48 hours of a request.
 
 
-##Staying up to date
-Be sure to watch this repository to receive email updates when new releases become available.
+## Staying up to date
+Be sure to watch this repository on Github to receive email updates when new releases become available.
