@@ -2,7 +2,7 @@
 
 **Compose with Sounds Live** is a free tool for the composing of sound based music on Mac OS, Windows, Android and iOS.
 
-The software was designed by [Stephen Pearse](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/stephen-pearse) at the Univeristy of Portsmouth (UK)in collaboration with Prof. [Leigh Landy](https://www.dmu.ac.uk/about-dmu/academic-staff/technology/leigh-landy/leigh-landy.aspx) at De Montfort University (UK).    
+The software was designed by [Stephen Pearse](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/stephen-pearse) at the Univeristy of Portsmouth (UK)based on a concept by and in collaboration with Prof. [Leigh Landy](https://www.dmu.ac.uk/about-dmu/academic-staff/technology/leigh-landy/leigh-landy.aspx) at De Montfort University (UK).    
 The software forms a part of the [Interfaces](http://www.interfacesnetwork.eu/) project led by [Onassis Stegi](https://www.onassis.org/)(GR).
 
 On the [releases page](https://github.com/spearse/CwSLive-Installers/releases) you can find installers for Mac OS, Windows 10 and Android.
